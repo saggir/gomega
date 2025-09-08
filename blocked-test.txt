@@ -1,1 +1,1 @@
-test commit to blocked repo
+BLOCKED: This push should be denied by SSL-Bump Squid proxy - $(date)
